@@ -4670,5 +4670,480 @@
         "evaluated_trades": 116,
         "winning_trades": 41,
         "last_week_pnl": -5.79
+    },
+    {
+        "date": "2026-09-25",
+        "universe_size": 503,
+        "long_count": 51,
+        "short_count": 15,
+        "long_signals": [
+            {
+                "ticker": "ABNB",
+                "return_5d": -5.26,
+                "allocation": 5.26,
+                "price": 157.47,
+                "status": "executed"
+            },
+            {
+                "ticker": "ADBE",
+                "return_5d": -5.4,
+                "allocation": 5.4,
+                "price": 235.47,
+                "status": "executed"
+            },
+            {
+                "ticker": "AIZ",
+                "return_5d": -6.1,
+                "allocation": 6.1,
+                "price": 265.0,
+                "status": "executed"
+            },
+            {
+                "ticker": "ALL",
+                "return_5d": -8.9,
+                "allocation": 8.9,
+                "price": 227.6,
+                "status": "executed"
+            },
+            {
+                "ticker": "AMP",
+                "return_5d": -9.43,
+                "allocation": 9.43,
+                "price": 493.0,
+                "status": "executed"
+            },
+            {
+                "ticker": "AON",
+                "return_5d": -5.97,
+                "allocation": 5.97,
+                "price": 277.99,
+                "status": "executed"
+            },
+            {
+                "ticker": "ARE",
+                "return_5d": -6.32,
+                "allocation": 6.32,
+                "price": 49.93,
+                "status": "executed"
+            },
+            {
+                "ticker": "BALL",
+                "return_5d": -5.52,
+                "allocation": 5.52,
+                "price": 56.83,
+                "status": "executed"
+            },
+            {
+                "ticker": "BG",
+                "return_5d": -5.69,
+                "allocation": 5.69,
+                "price": 109.0,
+                "status": "rejected"
+            },
+            {
+                "ticker": "BRO",
+                "return_5d": -6.46,
+                "allocation": 6.46,
+                "price": 60.82,
+                "status": "executed"
+            },
+            {
+                "ticker": "BX",
+                "return_5d": -5.23,
+                "allocation": 5.23,
+                "price": 118.42,
+                "status": "executed"
+            },
+            {
+                "ticker": "CBOE",
+                "return_5d": -5.44,
+                "allocation": 5.44,
+                "price": 258.03,
+                "status": "executed"
+            },
+            {
+                "ticker": "CDW",
+                "return_5d": -7.36,
+                "allocation": 7.36,
+                "price": 135.43,
+                "status": "executed"
+            },
+            {
+                "ticker": "CF",
+                "return_5d": -10.2,
+                "allocation": 10.2,
+                "price": 114.67,
+                "status": "executed"
+            },
+            {
+                "ticker": "CHTR",
+                "return_5d": -11.91,
+                "allocation": 11.91,
+                "price": 112.91,
+                "status": "rejected"
+            },
+            {
+                "ticker": "CNC",
+                "return_5d": -5.05,
+                "allocation": 5.05,
+                "price": 61.82,
+                "status": "executed"
+            },
+            {
+                "ticker": "SCHW",
+                "return_5d": -5.91,
+                "allocation": 5.91,
+                "price": 99.03,
+                "status": "executed"
+            },
+            {
+                "ticker": "CCI",
+                "return_5d": -7.14,
+                "allocation": 7.14,
+                "price": 67.84,
+                "status": "executed"
+            },
+            {
+                "ticker": "CMG",
+                "return_5d": -6.28,
+                "allocation": 6.28,
+                "price": 31.33,
+                "status": "rejected"
+            },
+            {
+                "ticker": "COHR",
+                "return_5d": -6.78,
+                "allocation": 6.78,
+                "price": 295.83,
+                "status": "executed"
+            },
+            {
+                "ticker": "CPRT",
+                "return_5d": -5.77,
+                "allocation": 5.77,
+                "price": 27.59,
+                "status": "executed"
+            },
+            {
+                "ticker": "EFX",
+                "return_5d": -6.77,
+                "allocation": 6.77,
+                "price": 148.11,
+                "status": "rejected"
+            },
+            {
+                "ticker": "ERIE",
+                "return_5d": -6.77,
+                "allocation": 6.77,
+                "price": 222.86,
+                "status": "executed"
+            },
+            {
+                "ticker": "EXPE",
+                "return_5d": -5.43,
+                "allocation": 5.43,
+                "price": 264.17,
+                "status": "executed"
+            },
+            {
+                "ticker": "FDX",
+                "return_5d": -5.86,
+                "allocation": 5.86,
+                "price": 285.85,
+                "status": "executed"
+            },
+            {
+                "ticker": "FDXF",
+                "return_5d": -5.79,
+                "allocation": 5.79,
+                "price": 113.18,
+                "status": "rejected"
+            },
+            {
+                "ticker": "FICO",
+                "return_5d": -9.12,
+                "allocation": 9.12,
+                "price": 863.09,
+                "status": "executed"
+            },
+            {
+                "ticker": "FSLR",
+                "return_5d": -9.31,
+                "allocation": 9.31,
+                "price": 177.71,
+                "status": "rejected"
+            },
+            {
+                "ticker": "GEN",
+                "return_5d": -25.47,
+                "allocation": 25.47,
+                "price": 21.62,
+                "status": "executed"
+            },
+            {
+                "ticker": "GIS",
+                "return_5d": -7.38,
+                "allocation": 7.38,
+                "price": 33.64,
+                "status": "executed"
+            },
+            {
+                "ticker": "HIG",
+                "return_5d": -5.81,
+                "allocation": 5.81,
+                "price": 124.23,
+                "status": "executed"
+            },
+            {
+                "ticker": "HPQ",
+                "return_5d": -9.01,
+                "allocation": 9.01,
+                "price": 31.3,
+                "status": "executed"
+            },
+            {
+                "ticker": "HRL",
+                "return_5d": -5.38,
+                "allocation": 5.38,
+                "price": 19.71,
+                "status": "executed"
+            },
+            {
+                "ticker": "INTU",
+                "return_5d": -9.04,
+                "allocation": 9.04,
+                "price": 275.79,
+                "status": "rejected"
+            },
+            {
+                "ticker": "LYB",
+                "return_5d": -6.12,
+                "allocation": 6.12,
+                "price": 58.14,
+                "status": "executed"
+            },
+            {
+                "ticker": "MPC",
+                "return_5d": -7.38,
+                "allocation": 7.38,
+                "price": 393.52,
+                "status": "executed"
+            },
+            {
+                "ticker": "MGM",
+                "return_5d": -13.83,
+                "allocation": 13.83,
+                "price": 32.58,
+                "status": "rejected"
+            },
+            {
+                "ticker": "MOS",
+                "return_5d": -6.0,
+                "allocation": 6.0,
+                "price": 23.01,
+                "status": "executed"
+            },
+            {
+                "ticker": "NEE",
+                "return_5d": -5.46,
+                "allocation": 5.46,
+                "price": 76.08,
+                "status": "executed"
+            },
+            {
+                "ticker": "OKE",
+                "return_5d": -5.17,
+                "allocation": 5.17,
+                "price": 88.63,
+                "status": "executed"
+            },
+            {
+                "ticker": "ORCL",
+                "return_5d": -7.12,
+                "allocation": 7.12,
+                "price": 137.1,
+                "status": "executed"
+            },
+            {
+                "ticker": "PAYX",
+                "return_5d": -12.72,
+                "allocation": 12.72,
+                "price": 101.37,
+                "status": "executed"
+            },
+            {
+                "ticker": "PCG",
+                "return_5d": -6.52,
+                "allocation": 6.52,
+                "price": 12.34,
+                "status": "executed"
+            },
+            {
+                "ticker": "PSX",
+                "return_5d": -6.36,
+                "allocation": 6.36,
+                "price": 255.75,
+                "status": "executed"
+            },
+            {
+                "ticker": "ROL",
+                "return_5d": -7.4,
+                "allocation": 7.4,
+                "price": 30.03,
+                "status": "rejected"
+            },
+            {
+                "ticker": "SBAC",
+                "return_5d": -6.97,
+                "allocation": 6.97,
+                "price": 166.15,
+                "status": "executed"
+            },
+            {
+                "ticker": "UPS",
+                "return_5d": -5.15,
+                "allocation": 5.15,
+                "price": 93.96,
+                "status": "executed"
+            },
+            {
+                "ticker": "VLO",
+                "return_5d": -6.32,
+                "allocation": 6.32,
+                "price": 387.18,
+                "status": "executed"
+            },
+            {
+                "ticker": "VRSN",
+                "return_5d": -5.24,
+                "allocation": 5.24,
+                "price": 287.25,
+                "status": "executed"
+            },
+            {
+                "ticker": "WTW",
+                "return_5d": -5.16,
+                "allocation": 5.16,
+                "price": 293.99,
+                "status": "executed"
+            },
+            {
+                "ticker": "WY",
+                "return_5d": -5.7,
+                "allocation": 5.7,
+                "price": 20.01,
+                "status": "executed"
+            }
+        ],
+        "short_signals": [
+            {
+                "ticker": "A",
+                "return_5d": 10.43,
+                "allocation": 10.43,
+                "price": 172.79,
+                "status": "executed"
+            },
+            {
+                "ticker": "AMD",
+                "return_5d": 12.65,
+                "allocation": 12.65,
+                "price": 630.63,
+                "status": "executed"
+            },
+            {
+                "ticker": "CDNS",
+                "return_5d": 15.28,
+                "allocation": 15.28,
+                "price": 326.13,
+                "status": "executed"
+            },
+            {
+                "ticker": "DDOG",
+                "return_5d": 16.62,
+                "allocation": 16.62,
+                "price": 268.13,
+                "status": "executed"
+            },
+            {
+                "ticker": "P",
+                "return_5d": 20.99,
+                "allocation": 20.99,
+                "price": 126.0,
+                "status": "executed"
+            },
+            {
+                "ticker": "ILMN",
+                "return_5d": 12.68,
+                "allocation": 12.68,
+                "price": 270.0,
+                "status": "executed"
+            },
+            {
+                "ticker": "INTC",
+                "return_5d": 13.26,
+                "allocation": 13.26,
+                "price": 123.0,
+                "status": "executed"
+            },
+            {
+                "ticker": "META",
+                "return_5d": 12.99,
+                "allocation": 12.99,
+                "price": 751.66,
+                "status": "executed"
+            },
+            {
+                "ticker": "MPWR",
+                "return_5d": 12.29,
+                "allocation": 12.29,
+                "price": 1367.43,
+                "status": "executed"
+            },
+            {
+                "ticker": "MRNA",
+                "return_5d": 29.11,
+                "allocation": 29.11,
+                "price": 198.88,
+                "status": "executed"
+            },
+            {
+                "ticker": "ON",
+                "return_5d": 10.32,
+                "allocation": 10.32,
+                "price": 77.2,
+                "status": "rejected"
+            },
+            {
+                "ticker": "QCOM",
+                "return_5d": 13.65,
+                "allocation": 13.65,
+                "price": 201.97,
+                "status": "executed"
+            },
+            {
+                "ticker": "SMCI",
+                "return_5d": 10.67,
+                "allocation": 10.67,
+                "price": 43.26,
+                "status": "executed"
+            },
+            {
+                "ticker": "SNPS",
+                "return_5d": 10.6,
+                "allocation": 10.6,
+                "price": 425.76,
+                "status": "executed"
+            },
+            {
+                "ticker": "WBD",
+                "return_5d": 11.01,
+                "allocation": 11.01,
+                "price": 30.86,
+                "status": "executed"
+            }
+        ],
+        "evaluated_trades": 61,
+        "winning_trades": 17,
+        "last_week_pnl": -7.21
     }
 ]
